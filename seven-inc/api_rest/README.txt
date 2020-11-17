@@ -2,6 +2,9 @@
 Primeiramente para rodar a aplicação será necessário installar o node.js e o mongodb em sua maquina
 obs: configurações de conexões do mongodb devem seguir o arquivo database dentro de config
 
+Depois instale as depencias do projeto execultando:
+	npm install
+
 posteriormento instale o nodemon e inicialize um servidor para escultar as requisições HTTP
 
 -no prompt de comando execulte o seguinte comando:
