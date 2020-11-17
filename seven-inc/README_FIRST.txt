@@ -1,0 +1,3 @@
+Primeiramente gostaria de lembrar que esse é meu primeiro contato com essas tecnologias e que essa seria uma oportunidade muito grande e uma satisfação imensa poder fazer parte do time da Seven, e com certeza, se contratado pretendo fazer cursos dessas linguagens para colaborar da melhor forma possível com a empresa
+
+Fiz os dois testes de forma separada, pois foi a forma que entendi das simulações dos testes, mas seria muito fácil implementa-las, e creio que qeum tenha conhecimento da aréa, pode ver isso... não o fiz pois achei que estaria incorreto, afinal uma API não contém interfaces em sua grande maioria
